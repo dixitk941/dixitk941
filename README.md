@@ -7,7 +7,7 @@ I am a BCA student at Rajiv Academy of Technology and Management with a passion 
 - 👯 I’m looking to collaborate on: Open source projects, web development, and anything interesting!
 - 💬 Ask me about: Web development, coding, or anything tech-related. I'm happy to help!
 - 📫 How to reach me: 
-  - Instagram: [karan_dixit75](https://www.instagram.com/karan_dixit75/)
+  - Instagram: [karan_dixit75](https://www.instagram.com/karan_dixit19/)
   - LinkedIn: [Karan Dixit](https://www.linkedin.com/in/karan-dixit-7223a628a/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love experimenting with new coding challenges and trying out different cuisines!
