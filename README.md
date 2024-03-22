@@ -14,7 +14,7 @@ I am a BCA student at Rajiv Academy of Technology and Management with a passion 
 
 Check out some of my work:
 - [Paris Spices Website](https://www.parisspices.com)
-- [Hitown Bears Website](https://hitownbear.live)
+- [Hitown Bears Website](https://hitownbears.live)
 -  [My Portfolio](https://dixitk941.github.io/myportfolio/)
 
 Looking forward to connecting with the tech community and creating awesome things together! 😊
