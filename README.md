@@ -1,6 +1,17 @@
 
 ### Hello there! 👋 I'm Karan Dixit( Dixitk941).
 
+&nbsp;
+
+<img src="https://github-profile-trophy.vercel.app/?username=dixitk941&theme=darkhub&no-frame=true&margin-w=15&row=1&column=7" />
+
+<img align="right" width="340" src="https://cb-thumbnails.s3.ap-south-1.amazonaws.com/accounts-vector.svg">
+&nbsp;&nbsp;&nbsp;
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dixitk941&label=Profile%20views&color=40f028&style=flat" alt="dixitk941" /> </p>
+
+&nbsp;
+
+
 I am a diligent BCA student at Rajiv Academy of Technology and Management, deeply passionate about coding and web development. Currently, I am actively engaged in exploring diverse facets of the tech world and endeavoring to construct intriguing projects.
 
 - 🔭 **Currently Working On:** I'm focused on developing web applications and advancing my coding proficiency.
