@@ -1,8 +1,5 @@
-Certainly! Here's your profile with the added website links and the GitHub API integration for the charts:
 
----
-
-### Hello there! 👋 I'm Dixitk941.
+### Hello there! 👋 I'm Karan Dixit( Dixitk941).
 
 I am a diligent BCA student at Rajiv Academy of Technology and Management, deeply passionate about coding and web development. Currently, I am actively engaged in exploring diverse facets of the tech world and endeavoring to construct intriguing projects.
 
