@@ -51,7 +51,7 @@ I am a diligent BCA student at Rajiv Academy of Technology and Management, deepl
   <img src = "https://github-readme-stats.vercel.app/api?username=dixitk941&show_icons=true&theme=bear" width = 400>&nbsp;&nbsp;&nbsp;&nbsp; <img src = "https://github-readme-streak-stats.herokuapp.com?user=dixitk941&theme=dark&hide_border=true" width = 400>
 </p>
 <div >
-<img src="https://activity-graph.herokuapp.com/graph?username=dixitk941&bg_color=FFFFFF&color=000000&line=000000&point=00FF00" align="center" />
+<!--<img src="https://activity-graph.herokuapp.com/graph?username=dixitk941&bg_color=FFFFFF&color=000000&line=000000&point=00FF00" align="center" />-->
 
 
 
