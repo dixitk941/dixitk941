@@ -1,5 +1,4 @@
-
-### Hello there! 👋 I'm Karan Dixit( Dixitk941).
+### Hi there! 👋 I'm Karan Dixit (Dixitk941).
 
 &nbsp;
 
@@ -32,6 +31,12 @@ I am a diligent BCA student at Rajiv Academy of Technology and Management, deepl
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun Fact:** I relish experimenting with new coding challenges and savoring various cuisines from around the globe!
 
+**Certifications and Achievements:**
+- [Certification of Frontend Developer (React) from HackerRank](https://www.hackerrank.com/certificates/ec9d3e0351d0)
+- [Problem Solving Certification from HackerRank](https://www.hackerrank.com/certificates/15fd22f3ec65)
+- [Python Basic Certification from HackerRank](https://www.hackerrank.com/certificates/0ed124886d78)
+- Participated in Hack&Chill Hackathon organized by GDSC group
+
   &nbsp;
 
 <h3 align="left">Languages and Tools:</h3>
@@ -54,5 +59,4 @@ I am a diligent BCA student at Rajiv Academy of Technology and Management, deepl
 <a href="https://twitter.com/dixitk941" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="mailto:mail.dixitk941@gmail.com" target="_blank" rel="noreferrer noopener"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 </div>
-
 
