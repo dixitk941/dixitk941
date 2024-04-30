@@ -3,9 +3,10 @@
 
 &nbsp;
 
-<img align="right" width="340" src="https://cb-thumbnails.s3.ap-south-1.amazonaws.com/accounts-vector.svg">
+
 
 <img src="https://github-profile-trophy.vercel.app/?username=dixitk941&theme=darkhub&no-frame=true&margin-w=15&row=1&column=7" />
+<img align="right" width="340" src="https://cb-thumbnails.s3.ap-south-1.amazonaws.com/accounts-vector.svg">
 
 &nbsp;&nbsp;&nbsp;
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dixitk941&label=Profile%20views&color=40f028&style=flat" alt="dixitk941" /> </p>
