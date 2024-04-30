@@ -1,4 +1,5 @@
-### Hi there! 👋 I'm Karan Dixit (Dixitk941).
+<h2 align="center">Hello there! 👋 I'm Karan Dixit( Dixitk941).</h2>
+
 
 &nbsp;
 
