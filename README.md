@@ -27,7 +27,7 @@ I am a diligent BCA student at Rajiv Academy of Technology and Management, deepl
 **Noteworthy Projects:**
 - [Paris Spices Website](https://www.parisspices.com)
 - [Hitown Bears Website](https://hitownbears.live)
-- [My Portfolio](https://dixitk941.github.io/myportfolio/)
+- [My Portfolio](https://www.karandixitportfolio.vercel.app/)
 - [ClimateCheck360](https://climatecheck360.vercel.app)
 - [GenZConnect](https://genzconnect.vercel.app)
 
