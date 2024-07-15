@@ -14,7 +14,7 @@
 &nbsp;
 
 <p align="center">
- <h3> <span style="font-size: 1.5em; font-weight: bold; color: #4CAF50;">🚀 Founder of <a href="https://neocodenex.tech" style="color: #FF5733; text-decoration: none;">NeoCodeNex</a></span></h3>
+<center> <h2> <span style="font-size: 1.5em; font-weight: bold; color: #4CAF50;">🚀 Founder of <a href="https://neocodenex.tech" style="color: #FF5733; text-decoration: none;">NeoCodeNex</a></span></h2></center>
 </p>
 
 I am a diligent BCA student at Rajiv Academy of Technology and Management, deeply passionate about coding and web development. Currently, I am actively engaged in exploring diverse facets of the tech world and endeavoring to construct intriguing projects.
