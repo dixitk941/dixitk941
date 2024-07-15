@@ -16,7 +16,8 @@
 
 I am a diligent BCA student at Rajiv Academy of Technology and Management, deeply passionate about coding and web development. Currently, I am actively engaged in exploring diverse facets of the tech world and endeavoring to construct intriguing projects.
 
-**<h3 align="center">Founder of [NeoCodeNex](https://neocodenex.tech)</h3>**
+**<h3 align="center" style="color: #4CAF50;">Founder of <a href="https://neocodenex.tech" style="color: #2196F3; text-decoration: none;">NeoCodeNex</a></h3>**
+
 
 - 🔭 **Currently Working On:** I'm focused on developing web applications and advancing my coding proficiency.
 - 🌱 **Currently Learning:** I'm dedicated to exploring new technologies and frameworks to augment my development skills.
