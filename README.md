@@ -13,9 +13,11 @@
 
 &nbsp;
 
-I am a diligent BCA student at Rajiv Academy of Technology and Management, deeply passionate about coding and web development. Currently, I am actively engaged in exploring diverse facets of the tech world and endeavoring to construct intriguing projects.
+<p align="center">
+  <span style="font-size: 1.5em; font-weight: bold; color: #4CAF50;">🚀 Founder of <a href="https://neocodenex.tech" style="color: #FF5733; text-decoration: none;">NeoCodeNex</a></span>
+</p>
 
-**<h3 align="center" style="color: #4CAF50;">Founder of <a href="https://neocodenex.tech" style="color: #2196F3; text-decoration: none;">NeoCodeNex</a></h3>**
+I am a diligent BCA student at Rajiv Academy of Technology and Management, deeply passionate about coding and web development. Currently, I am actively engaged in exploring diverse facets of the tech world and endeavoring to construct intriguing projects.
 
 - 🔭 **Currently Working On:** I'm focused on developing web applications and advancing my coding proficiency.
 - 🌱 **Currently Learning:** I'm dedicated to exploring new technologies and frameworks to augment my development skills.
@@ -77,10 +79,11 @@ I am a diligent BCA student at Rajiv Academy of Technology and Management, deepl
   <!--<img src="https://activity-graph.herokuapp.com/graph?username=dixitk941&bg_color=FFFFFF&color=000000&line=000000&point=00FF00" align="center" />-->
 </div>
 
-<h3>Let's Connect</h3> 
+<h3 align="center">Let's Connect</h3> 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/karan-dixit-7223a628a/" target="_blank" rel="noreferrer noopener"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
   <a href="https://twitter.com/dixitk941" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
   <a href="mailto:mail.dixitk941@gmail.com" target="_blank" rel="noreferrer noopener"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 </div>
+
