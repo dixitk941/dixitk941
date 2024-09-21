@@ -1,73 +1,72 @@
-<h1 align="center">Hello there! 👋 I'm Karan Dixit (Dixitk941)</h1>
-<h3 align="center">Crafting solutions through code, one project at a time</h3>
+<h1 align="center">👾 Greetings, I'm Karan Dixit</h1>
+<h3 align="center">Code, Break, Repeat.</h3>
 
-![](https://komarev.com/ghpvc/?username=dixitk941)
+![](https://komarev.com/ghpvc/?username=Maruti)
 
-### Welcome to my Profile! Here's an overview of my work and future plans.
-
----
-
-## Contact Me
-
-***Feel free to reach out on any platform through my linktree or the ones mentioned below!***
-
-### [My Linktree](https://linktr.ee/karandixit)
-
-### Other platforms
-<a href="mailto:mail.dixitk941@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://www.linkedin.com/in/karan-dixit-7223a628a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://twitter.com/dixitk941" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a href="https://www.kaggle.com/dixitk941" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"></a>
+### Welcome to my virtual playground! Explore my coding universe and join the mission.
 
 ---
 
-## About Me
-- 🔭 I am a BCA student at [Rajiv Academy of Technology and Management](https://www.rajivacademy.com), passionate about coding and web development.
-- 🚀 I am the founder of [NeoCodeNex](https://neocodenex.tech), where I aim to develop innovative tech solutions.
-- 👯 I’m looking to collaborate on open source projects and intellectually stimulating endeavors.
-- 💬 Feel free to ask me about web development, coding, or anything tech-related!
-- ⚡ Fun fact: I love experimenting with new coding challenges and exploring global cuisines!
+## 📡 Connect with Me
+
+***Got something to share? Hit me up on any of these channels!***
+
+### [My Linktree](https://linktr.ee/Maruti)
+
+### Other Channels
+<a href="mailto:karandixit@example.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
+<a href="https://www.linkedin.com/in/karandixit/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
+<a href="https://twitter.com/MarutiCoder" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"></a>
+<a href="https://www.kaggle.com/karandixit" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="kaggle"></a>
+<a href="https://www.youtube.com/channel/YourChannel" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"></a>
 
 ---
 
-## Noteworthy Projects
-
-*Click on the project name to go to its GitHub Repository and see a live demo!*
-- **[Bail Mantri](https://github.com/YourRepo/Bail-Mantri)**: Simplifying the bail application process for undertrial prisoners and legal aid providers. [[Demo App](https://bailmantri.com)]
-- **[EveSecure](https://github.com/YourRepo/EveSecure)**: An initiative designed to empower and support women. [[Demo App](https://evesecure.com)]
-- **[Mentor Connect](https://github.com/YourRepo/Mentor-Connect)**: A platform connecting aspiring developers with experienced mentors. [[Demo App](https://mentorconnect.com)]
-- **[GenZ Connect](https://github.com/YourRepo/GenZConnect)**: An advanced version of Mentor Connect tailored for the GenZ community. [[Demo App](https://genzconnect.com)]
-- **[Paris Spices Website](https://www.parisspices.com)**
-- **[Hitown Bears Website](https://hitownbears.live)**
-- **[My Portfolio](https://karandixitportfolio.vercel.app/)**
-- **[ClimateCheck360](https://climatecheck360.vercel.app)**
+## 👨‍💻 About Me
+- 🔭 Code wrangler on a mission to disrupt the status quo.
+- 🚀 Diving deep into the realms of AI and machine learning, creating solutions that matter.
+- 👾 Always on the lookout for fellow hackers to collaborate with on groundbreaking projects.
+- ⚡ Fun fact: I channel the strength of Lord Hanuman in my coding quests.
 
 ---
 
-## 🛠 Languages and Tools
+## 🛠 Projects Under Development
 
-<p align="left">  
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
-</p>
+### **1. GenZ Connect**
+Connecting the brightest minds of GenZ for epic collaborations.
 
----
+### **2. GenZ Notes**
+A treasure trove for students, packed with educational resources and notes.
 
-![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dixitk941&theme=tokyonight&show_icons=true)
+### **3. Bail Mantri**
+An encrypted solution for simplifying bail applications for those in need.
 
----
+### **4. EveSecure**
+Empowering women through tech—because strength is in unity.
 
-## 📝 Open-Source Contributions
-- Contributed to various open-source projects, enhancing functionality and fixing bugs. 
+### **5. Hitown Bears**
+A men’s wear brand that’s as bold as your next move. 
 
----
-
-## 💪 Currently working on
-- Continuing to enhance my skills through projects and collaborations in web development and coding challenges.
+### **6. Paris Spices**
+Adding a pinch of magic to your culinary adventures with premium spices.
 
 ---
 
+## 🏆 Hacker Achievements
+
+- **[Udemy Certification(100 Days Of PYthon)](https://www.udemy.com/certificate/UC-5ae74439-d651-4d77-a336-e601d2a58831/)** - Level up!
+- **[Coursera Certification (Automate Cybersecurity Tasks with Python)](https://www.coursera.org/account/accomplishments/verify/PMMDU432HJ9Q)** - Knowledge unlocked!
+- **[Coursera Certification (Foundations of Cybersecurity)](https://www.coursera.org/account/accomplishments/verify/C7BUP2BJCQZB)** - More skills, more power!
+- **[HackerRank Certification (Frontend Developer (React))](https://www.hackerrank.com/certificates/ec9d3e0351d0)** - Cracked the code!
+- **[Hack&Chill](https://certificate.givemycertificate.com/c/6f956f17-887a-479b-8b14-792588feadaa)** - A badge for my collection!
+- **[HackerRank Certification (Problem Solving (Basic))](https://www.hackerrank.com/certificates/15fd22f3ec65)** - Code ninja status achieved!
+- **[HackerRank Certification (Python (Basic))](https://www.hackerrank.com/certificates/0ed124886d78)** - Yet another notch on my belt!
+
+---
+
+## 💪 Current Missions
+- Expanding my coding arsenal with AI and machine learning projects—stay tuned for the next breakthrough.
+
+---
+
+![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maruti&theme=dark&show_icons=true&count_private=true)
