@@ -1,7 +1,7 @@
 <h1 align="center">👾 Greetings, I'm Karan Dixit</h1>
 <h3 align="center">Code, Break, Repeat.</h3>
 
-![](https://komarev.com/ghpvc/?username=Maruti)
+![](https://komarev.com/ghpvc/?username=dixitk941)
 
 ### Welcome to my virtual playground! Explore my coding universe and join the mission.
 
@@ -14,11 +14,10 @@
 ### [My Linktree](https://linktr.ee/Maruti)
 
 ### Other Channels
-<a href="mailto:karandixit@example.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
-<a href="https://www.linkedin.com/in/karandixit/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
-<a href="https://twitter.com/MarutiCoder" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"></a>
-<a href="https://www.kaggle.com/karandixit" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="kaggle"></a>
-<a href="https://www.youtube.com/channel/YourChannel" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"></a>
+<a href="mailto:dixitk941@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
+<a href="https://www.linkedin.com/in/karan-dixit-7223a628a//" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
+<a href="https://twitter.com/dixitk941" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"></a>
+<a href="https://www.youtube.com/channel/neocodenex" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"></a>
 
 ---
 
@@ -33,22 +32,22 @@
 ## 🛠 Projects Under Development
 
 ### **1. GenZ Connect**
-Connecting the brightest minds of GenZ for epic collaborations.
+Connecting the brightest minds of GenZ for epic collaborations.[Genz Connect Website](https://genzconnectt.vercel.app)
 
 ### **2. GenZ Notes**
-A treasure trove for students, packed with educational resources and notes.
+A treasure trove for students, packed with educational resources and notes.[GenZ Notes Website](https://genznotes.vercel.app)
 
 ### **3. Bail Mantri**
-An encrypted solution for simplifying bail applications for those in need.
+An encrypted solution for simplifying bail applications for those in need.[HBail Mantri Website](https://bailmantri.vercel.app)
 
 ### **4. EveSecure**
-Empowering women through tech—because strength is in unity.
+Empowering women through tech—because strength is in unity.[Evesecure Website](https://evesecure.vercel.app)
 
 ### **5. Hitown Bears**
-A men’s wear brand that’s as bold as your next move. 
+A men’s wear brand that’s as bold as your next move. [Hitown Bears Website](https://hitownbears.live)
 
 ### **6. Paris Spices**
-Adding a pinch of magic to your culinary adventures with premium spices.
+Adding a pinch of magic to your culinary adventures with premium spices.[Hitown Bears Website](https://parispices.com)
 
 ---
 
@@ -69,4 +68,4 @@ Adding a pinch of magic to your culinary adventures with premium spices.
 
 ---
 
-![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maruti&theme=dark&show_icons=true&count_private=true)
+![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dixitk941&theme=dark&show_icons=true&count_private=true)
