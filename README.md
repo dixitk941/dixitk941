@@ -51,7 +51,7 @@ Adding a pinch of magic to your culinary adventures with premium spices.[Hitown 
 
 ---
 
-## 🏆 Hacker Achievements
+## 🏆 My Achievements
 
 - **[Udemy Certification(100 Days Of PYthon)](https://www.udemy.com/certificate/UC-5ae74439-d651-4d77-a336-e601d2a58831/)** - Level up!
 - **[Coursera Certification (Automate Cybersecurity Tasks with Python)](https://www.coursera.org/account/accomplishments/verify/PMMDU432HJ9Q)** - Knowledge unlocked!
