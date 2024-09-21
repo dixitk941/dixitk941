@@ -13,23 +13,23 @@
 <p align="left">I'm a dedicated BCA student at Rajiv Academy of Technology and Management, passionate about coding and web development. I’m actively exploring the tech world and working on exciting projects.</p>
 
 <ul>
-  <li>🔭 **Currently Working On:** Web applications and enhancing my coding skills.</li>
-  <li>🌱 **Learning:** New technologies and frameworks.</li>
-  <li>👯 **Seeking Collaborations:** Open source, web development, and innovative projects!</li>
-  <li>💬 **Ask Me About:** Web development, coding, and tech queries.</li>
-  <li>📫 **Reach Me:** [Instagram](https://www.instagram.com/karan_dixit19/) | [LinkedIn](https://www.linkedin.com/in/karan-dixit-7223a628a/)</li>
+  <li>🔭 Currently Working On: Web applications and enhancing my coding skills.</li>
+  <li>🌱 Learning: New technologies and frameworks.</li>
+  <li>👯 Seeking Collaborations: Open source, web development, and innovative projects!</li>
+  <li>💬 Ask Me About: Web development, coding, and tech queries.</li>
+  <li>📫 Reach Me: [Instagram](https://www.instagram.com/karan_dixit19/) | [LinkedIn](https://www.linkedin.com/in/karan-dixit-7223a628a/)</li>
 </ul>
 
-**Noteworthy Projects:**
+Noteworthy Projects:
 - [Paris Spices Website](https://www.parisspices.com)
 - [Hitown Bears Website](https://hitownbears.live)
 - [My Portfolio](https://karandixitportfolio.vercel.app/)
 - [ClimateCheck360](https://climatecheck360.vercel.app)
 - [GenZConnect](https://genzconnect.vercel.app)
 
-<p>😄 **Pronouns:** He/Him | ⚡ **Fun Fact:** I love tackling new coding challenges and exploring global cuisines!</p>
+<p>😄 Pronouns: He/Him | ⚡ Fun Fact: I love tackling new coding challenges and exploring global cuisines!</p>
 
-**Certifications:**
+Certifications:
 - [Frontend Developer (React) - HackerRank](https://www.hackerrank.com/certificates/ec9d3e0351d0)
 - [Problem Solving - HackerRank](https://www.hackerrank.com/certificates/15fd22f3ec65)
 - [Python Basic - HackerRank](https://www.hackerrank.com/certificates/0ed124886d78)
