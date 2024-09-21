@@ -11,7 +11,7 @@
 
 ***Got something to share? Hit me up on any of these channels!***
 
-### [My Linktree](https://linktr.ee/Maruti)
+### [My Linktree](https://linktr.ee/dixitk941)
 
 ### Other Channels
 <a href="mailto:dixitk941@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
@@ -65,6 +65,7 @@ Adding a pinch of magic to your culinary adventures with premium spices.[Hitown 
 
 ## 💪 Current Missions
 - Expanding my coding arsenal with AI and machine learning projects—stay tuned for the next breakthrough.
+- - **A.I.N.O.R**: A voice assistant that learns and adapts to your needs. Hints to come—stay tuned for cryptic clues!
 
 ---
 
