@@ -1,72 +1,73 @@
-<h2 align="center">Hello there! 👋 I'm Karan Dixit (Dixitk941)</h2>
+<h1 align="center">Hello there! 👋 I'm Karan Dixit (Dixitk941)</h1>
+<h3 align="center">Crafting solutions through code, one project at a time</h3>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dixitk941&theme=darkhub&no-frame=true&margin-w=15&row=1&column=7" />
-</div>
+![](https://komarev.com/ghpvc/?username=dixitk941)
 
-<img align="right" width="340" src="https://cb-thumbnails.s3.ap-south-1.amazonaws.com/accounts-vector.svg">
+### Welcome to my Profile! Here's an overview of my work and future plans.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dixitk941&label=Profile%20views&color=40f028&style=flat" alt="dixitk941" /> </p>
+---
 
-<h2><span style="font-size: 1.5em; font-weight: bold; color: #4CAF50;">🚀 Founder of <a href="https://neocodenex.tech" style="color: #FF5733; text-decoration: none;">NeoCodeNex</a></span></h2>
+## Contact Me
 
-<p align="left">I'm a dedicated BCA student at Rajiv Academy of Technology and Management, passionate about coding and web development. I’m actively exploring the tech world and working on exciting projects.</p>
+***Feel free to reach out on any platform through my linktree or the ones mentioned below!***
 
-<ul>
-  <li>🔭 Currently Working On: Web applications and enhancing my coding skills.</li>
-  <li>🌱 Learning: New technologies and frameworks.</li>
-  <li>👯 Seeking Collaborations: Open source, web development, and innovative projects!</li>
-  <li>💬 Ask Me About: Web development, coding, and tech queries.</li>
-  <li>📫 Reach Me: [Instagram](https://www.instagram.com/karan_dixit19/) | [LinkedIn](https://www.linkedin.com/in/karan-dixit-7223a628a/)</li>
-</ul>
+### [My Linktree](https://linktr.ee/karandixit)
 
-Noteworthy Projects:
-- [Paris Spices Website](https://www.parisspices.com)
-- [Hitown Bears Website](https://hitownbears.live)
-- [My Portfolio](https://karandixitportfolio.vercel.app/)
-- [ClimateCheck360](https://climatecheck360.vercel.app)
-- [GenZConnect](https://genzconnect.vercel.app)
+### Other platforms
+<a href="mailto:mail.dixitk941@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/karan-dixit-7223a628a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://twitter.com/dixitk941" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://www.kaggle.com/dixitk941" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"></a>
 
-<p>😄 Pronouns: He/Him | ⚡ Fun Fact: I love tackling new coding challenges and exploring global cuisines!</p>
+---
 
-Certifications:
-- [Frontend Developer (React) - HackerRank](https://www.hackerrank.com/certificates/ec9d3e0351d0)
-- [Problem Solving - HackerRank](https://www.hackerrank.com/certificates/15fd22f3ec65)
-- [Python Basic - HackerRank](https://www.hackerrank.com/certificates/0ed124886d78)
-- Participated in Hack&Chill Hackathon organized by GDSC
+## About Me
+- 🔭 I am a BCA student at [Rajiv Academy of Technology and Management](https://www.rajivacademy.com), passionate about coding and web development.
+- 🚀 I am the founder of [NeoCodeNex](https://neocodenex.tech), where I aim to develop innovative tech solutions.
+- 👯 I’m looking to collaborate on open source projects and intellectually stimulating endeavors.
+- 💬 Feel free to ask me about web development, coding, or anything tech-related!
+- ⚡ Fun fact: I love experimenting with new coding challenges and exploring global cuisines!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a>
-  <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.haskell.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" width="40" height="40"/></a>
-  <a href="https://heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-  <a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/></a>
-  <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40"/></a>
+---
+
+## Noteworthy Projects
+
+*Click on the project name to go to its GitHub Repository and see a live demo!*
+- **[Bail Mantri](https://github.com/YourRepo/Bail-Mantri)**: Simplifying the bail application process for undertrial prisoners and legal aid providers. [[Demo App](https://bailmantri.com)]
+- **[EveSecure](https://github.com/YourRepo/EveSecure)**: An initiative designed to empower and support women. [[Demo App](https://evesecure.com)]
+- **[Mentor Connect](https://github.com/YourRepo/Mentor-Connect)**: A platform connecting aspiring developers with experienced mentors. [[Demo App](https://mentorconnect.com)]
+- **[GenZ Connect](https://github.com/YourRepo/GenZConnect)**: An advanced version of Mentor Connect tailored for the GenZ community. [[Demo App](https://genzconnect.com)]
+- **[Paris Spices Website](https://www.parisspices.com)**
+- **[Hitown Bears Website](https://hitownbears.live)**
+- **[My Portfolio](https://karandixitportfolio.vercel.app/)**
+- **[ClimateCheck360](https://climatecheck360.vercel.app)**
+
+---
+
+## 🛠 Languages and Tools
+
+<p align="left">  
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dixitk941&show_icons=true&theme=bear" width="400" />&nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dixitk941&theme=dark&hide_border=true" width="400" />
-</p>
+---
 
-<h3 align="center">Let's Connect</h3> 
+![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dixitk941&theme=tokyonight&show_icons=true)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/karan-dixit-7223a628a/" target="_blank" rel="noreferrer noopener"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
-  <a href="https://twitter.com/dixitk941" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
-  <a href="mailto:mail.dixitk941@gmail.com" target="_blank" rel="noreferrer noopener"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
-</div>
+---
+
+## 📝 Open-Source Contributions
+- Contributed to various open-source projects, enhancing functionality and fixing bugs. 
+
+---
+
+## 💪 Currently working on
+- Continuing to enhance my skills through projects and collaborations in web development and coding challenges.
+
+---
+
