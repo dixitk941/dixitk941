@@ -43,11 +43,11 @@ An encrypted solution for simplifying bail applications for those in need.[HBail
 ### **4. EveSecure**
 Empowering women through tech—because strength is in unity.[Evesecure Website](https://evesecure.vercel.app)
 
-### **5. Hitown Bears**
-A men’s wear brand that’s as bold as your next move. [Hitown Bears Website](https://hitownbears.live)
+### **5. HitownBears**
+A men’s wear brand that’s as bold as your next move. [HitownBears Website](https://hitownbears.live)
 
-### **6. Paris Spices**
-Adding a pinch of magic to your culinary adventures with premium spices.[Hitown Bears Website](https://parispices.com)
+### **6. ParisSpices**
+Adding a pinch of magic to your culinary adventures with premium spices.[ParisSpices](https://parispices.com)
 
 ---
 
