@@ -65,7 +65,7 @@ Adding a pinch of magic to your culinary adventures with premium spices.[ParisSp
 
 ## 📝 Latest Blog Post
 
-### **[Demystifying AI and Machine Learning for Beginners](https://dixitk941.blogspot.com/2024/09/demystifying-ai-and-machine-learning.html))**
+### **[Demystifying AI and Machine Learning for Beginners](https://dixitk941.blogspot.com/2024/09/demystifying-ai-and-machine-learning.html)**
 Demystifying AI and Machine Learning for beginners—explore the core concepts, techniques, and the future of AI. Ready to dive into the world of intelligent systems?
 
 ### **[Unlocking 2024: Programming Languages to Watch](https://dixitk941.blogspot.com/2024/09/unlocking-2024-programming-languages.html)** 
