@@ -70,8 +70,12 @@ Adding a pinch of magic to your culinary adventures with premium spices. [ParisS
 
 ## 📝 Latest Blog Post
 
+### **[Reflecting on My 2024 Journey: A Year of Growth, Challenges, and Innovation](https://dixitk941.blogspot.com/2025/01/reflecting-on-my-2024-journey-year-of.html)**  
+2024 has been a year of transformation for me, both personally and professionally. From diving into new technologies and building multiple projects to pushing the boundaries of my potential, this year has been a rollercoaster of learning and growth.
+
 ### **[Crafting the Ultimate GitHub Portfolio: A Developer’s Guide](https://dixitk941.blogspot.com/2024/10/crafting-ultimate-github-portfolio.html)**  
 Your GitHub profile is your most important developer asset, acting as your living portfolio. In this guide, I cover the best ways to showcase your work, organize your projects, and impress potential employers. Is your GitHub ready to stand out?
+
 
 ### **[Demystifying AI and Machine Learning for Beginners](https://dixitk941.blogspot.com/2024/09/demystifying-ai-and-machine-learning.html)**
 Explore the core concepts, techniques, and future of AI. Ready to dive into the world of intelligent systems?
