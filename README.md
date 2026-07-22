@@ -17,7 +17,6 @@ I build full-stack web apps and AI-powered tools — from voice assistants to st
 ## GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dixitk941&theme=default&hide_border=true&show_icons=true" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dixitk941&theme=default&hide_border=true" />
 </p>
 
