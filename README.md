@@ -2,7 +2,7 @@
 
 Full-stack developer building AI-integrated products and web apps.
 
-[Email](mailto:dixitk941@gmail.com) · [LinkedIn](https://www.linkedin.com/in/karan-dixit21/) · [Twitter](https://twitter.com/dixitk941) · [Blog](https://dixitk941.blogspot.com)
+[Email](mailto:dixitk941@gmail.com) · [LinkedIn](https://www.linkedin.com/in/dixitk941/) · [Twitter](https://twitter.com/dixitk941)
 
 ---
 
